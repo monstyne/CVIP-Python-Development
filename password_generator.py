@@ -3,7 +3,6 @@ from tkinter import *
 import string
 import random
 import pyperclip
-import string
 
 root=Tk()
 root.title("Password generator")
